@@ -46,7 +46,3 @@ Replace `BinarySearch` with the class you want to run.
 - Examples use Java 17 and standard library features only.
 - Each class has its own `main` method for easy practice.
 - Binary search requires sorted input unless the problem states otherwise.
-- These are clean, independently written practice implementations based on the topics in the public reference repository below; they are not claimed to be byte-for-byte copies of lost local files.
-
-## Reference
-Topic reference: [raviteja72724-coder/Binary_Search](https://github.com/raviteja72724-coder/Binary_Search).
